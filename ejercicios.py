@@ -14,7 +14,7 @@ Cada ejercicio posee un test --> para inciar los test usa el comando 'pytest'
 
 # Usa la funcion 'print()' para imprimir "Hello World!"
 def hello():
-    print("Hello World!")
+
     #Escribe la solución arriba de esta línea 
     return
 
@@ -32,19 +32,19 @@ Por ejemplo: si estas trabajando en la funcion "calcular_area()" el test se llam
 
 # Imprime un saludo. No todos son validos, solo unos pocos
 def saludo():
-    print("Hello")
+
     return
 
 
 # Imprime un estring de al menos 20 caracteres
 def string():
-    print("este string tiene mas de veinte caracteres")
+
     return
 
 
 # Imprime un estring de al menos 20 caracteres y menos de 30
 def string2():
-    print("string tiene mas de veinte")
+
     return
 
 
@@ -67,58 +67,58 @@ def suma(numero_1, numero_2):
 
 # Suma siempre recibe números positivos, ¿transformar el total en un número negativo?
 def suma_negativa(numero_1, numero_2):
-    total = (numero_1 + numero_2 ) * -1 # Escribe la operación a la derecha del signo '='
+    total =  # Escribe la operación a la derecha del signo '='
     return total
 
 
 # Crea una resta
 def resta(numero_1, numero_2):
-    total = numero_1 - numero_2  # Escribe la operación a la derecha del signo '='
+    total = # Escribe la operación a la derecha del signo '='
     return total
 
 
 # Invierta la secuencia de la resta
 def resta_invertida(numero_1, numero_2):
-    total = numero_2 - numero_1
+    total = 
     return total
 
 
 # Crea una multiplicación
 def multiplicacion(numero_1, numero_2):
-    total = numero_1 * numero_2
+    total = 
     return total
 
 # Crea una division usando el operador para que de siempre enteros
 def division(numero_1, numero_2):
-    total = numero_1 / numero_2
+    total = 
     return total
 
 
 # Crea una division usando el operador para que de siempre enteros
 def division_entera(numero_1, numero_2):
-    total = numero_1 // numero_2
+    total = 
     return total
 
 
 # crea una division usando el operador de modulo
 def modulo(numero_1, numero_2):
-    total = numero_1 % numero_2
+    total = 
     return total
 
 
 # Crea una operación que eleve un numero por si mismo
 def potencia(numero):
-    total = numero * numero
+    total = 
     return total
 
 
 # Crea una operacion que tome un número negativo y lo tranfome a positivo
 def de_negativo_a_positivo(numero):
-    total = numero * -1
+    total = 
     return total
 
 
 # Ahora al reves
 def de_positivo_a_negativo(numero):
-    total = numero * -1
+    total = 
     return total
