@@ -14,7 +14,7 @@ Cada ejercicio posee un test --> para inciar los test usa el comando 'pytest'
 
 # Usa la funcion 'print()' para imprimir "Hello World!"
 def hello():
-    print("Hello World!")
+
     #Escribe la solución arriba de esta línea 
     return
 
